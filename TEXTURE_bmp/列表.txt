@@ -1,0 +1,18 @@
+256 x 256
+
+(+4)
+1. 靜力學	J. L. Meriam
+2. 動力學	J. L. Meriam
+3. 熱力學	Moran
+4. 材料力學	Hibbrler
+5. 流體力學	munson
+6. 工程數學	Kreyszig
+7. 高等工程數學	Dennis G. Zill
+8. 機構學	Chao-Chieh Lan
+9. 電工學	Allan R. Hambley
+10.電子學	Thomas L. Floyd
+11.機械製造	Kalpakjian
+12.機械設計	Robert C. Juvinall
+13.自動控制	Norman S. Nise
+14.計算機概論	Ivor Horton
+15.計算機圖學	Vera B. Anand
